@@ -1,0 +1,28 @@
+﻿Metric,Value
+Original CSV rows,6500
+Original JSON rows,
+Processed CSV rows,6292
+Original CSV columns,12
+Original JSON columns,
+Processed CSV columns,18
+Original JSON read status,failed: JSONDecodeError
+CSV and JSON contain the same key records,not_checked
+Exact duplicate rows in original CSV,0
+Duplicate Year-Rank combinations,0
+Duplicate Song-Artist-Year combinations,0
+Minimum year,1959
+Maximum year,2023
+Number of years,65
+Minimum songs per year,100
+Maximum songs per year,100
+Missing lyrics,116
+Suspected non-lyrics,86
+Long texts requiring manual review,35
+Lyrics longer than 3000 words,63
+Reused long texts across different songs,32
+Valid text-modeling records,6224
+Excluded text-modeling records,276
+Minimum words required,5
+Missing release dates,1937
+Missing album values,464
+Rows matched to processed Corpus,6268
