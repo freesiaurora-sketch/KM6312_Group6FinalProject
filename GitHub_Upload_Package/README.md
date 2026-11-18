@@ -9,7 +9,7 @@ We combine exploratory data analysis, LDA topic modelling, regression analysis, 
 a fine-tuned BERT emotion classifier, and we present the results through an
 interactive Streamlit application.
 
-**Live demo**: https://[your-app-name].streamlit.app *(deployed on Streamlit Community Cloud)*
+**Live demo**: https://km6312group6finalproject-ndwgnkaaa46xbersjhwdjk.streamlit.app *(deployed on Streamlit Community Cloud)*
 
 ## Repository structure
 
